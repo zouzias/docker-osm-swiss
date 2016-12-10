@@ -1,5 +1,7 @@
 FROM postgres:9.6.1
 
+MAINTAINER Anastasios Zouzias zouzias@gmail.com
+
 # Install osmosis, wget and postgis
 RUN apt-get update && apt-get install -yq osmosis wget postgis
 
