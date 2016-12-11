@@ -17,3 +17,8 @@ Note: the above operation is CPU and network intense. You can connect to the pos
 ```
 ./connectToPostgres.sh
 ```
+
+
+### See also
+
+[Gists](https://gist.github.com/zouzias/7d16e63a0351f1e546e238ec0a55c229)
