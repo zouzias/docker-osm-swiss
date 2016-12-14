@@ -10,7 +10,7 @@ Assuming that docker is installed, i.e., `docker ps` runs, clone this project an
 ```
 ./runPostgresWithSwiss.sh
 ```
-which will build a Docker container based on postgres:latest and import Open Street Map (OSM) data using [osmosis](http://wiki.openstreetmap.org/wiki/Osmosis)
+which will build a Docker container based on postgres:latest and import Open Street Map (OSM) data using [osmosis](http://wiki.openstreetmap.org/wiki/Osmosis).
 
 Note: the above operation is CPU and network intense. You can connect to the postgres DB using
 
